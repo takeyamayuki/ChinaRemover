@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "China Remover",
+    "version": "1.0.0",
+    "description": "Amazonの検索画面から中華のパチモンを取り除く拡張機能です",
+    "content_scripts": [
+        {
+            "matches": ["https://www.amazon.co.jp/s?k=*"],
+            "js": ["script.js"]
+        }
+    ]
+}
