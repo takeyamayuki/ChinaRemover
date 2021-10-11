@@ -1,0 +1,2 @@
+# ChinaRemover
+Amazonの検索画面から中華のパチモンを取り除くChrome拡張機能です
