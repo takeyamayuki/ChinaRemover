@@ -10,7 +10,7 @@ Amazonの検索画面から中華のパチモンを取り除くChrome拡張機�
 
 
 ## Installation
-「自作のChrome拡張機能をインストールする」でググってください。
+[chrome ウェブストア](https://chrome.google.com/webstore/detail/china-remover/koddfmmljnagafaapbegnjacfhlhiefg?hl=ja&gl=001)からインストールしてください。
 
 ***
 https://twitter.com/Atamanee/status/1068719142839054336  
